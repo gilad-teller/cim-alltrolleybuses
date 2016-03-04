@@ -1,0 +1,9 @@
+$mod = map [
+	"version", [1,0],
+	"name", "MOD All Trolleybuses",
+	"description", "Allows you to use all trolley buses in both New York and St. Petersburg.",
+	"installto", 2,
+	"author", "giladteller",
+	"homepage", "http://citiesinmotion.wikispaces.com/AllTrolleybuses",
+	"requires", map["usa", map[], "stpetersburg", map[]]
+];
